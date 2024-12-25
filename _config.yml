@@ -22,11 +22,11 @@ repository               : "rupakdas18/rupakdas18.github.io"
 author:
   # Biographic information
   avatar           : "RupakKumarDas-2.png"
-  name             : "Your Sidebar Name"
+  name             : "Rupak Kumar Das"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student at Penn State"
   location         : "State College, PA, USA"
-  employer         : "Pennsylvania State University-University Park"
+  employer         : "Penns State University-UP"
   uri              : # URL
   email            : "rjd6099@psu.edu" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1470-5998"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/rupak-kumar-das/"
+  linkedin         : "rupak-kumar-das/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
