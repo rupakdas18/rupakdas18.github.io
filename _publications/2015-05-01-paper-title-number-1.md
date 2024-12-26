@@ -1,13 +1,13 @@
 ---
 title: "Age classification based on EMG signal using Artificial Neural Network"
 collection: publications
-category: manuscripts
+category: Conference
 permalink: /publication/2015-05-01-paper-title-number-1
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-05-01
 venue: 'IEEE'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/7307427'
 citation: 'Hosen, M. R., Hasan, S., Hasan, M. M., & Das, R. K. (2015, May). Age classification based on EMG signal using Artificial Neural Network. In 2015 International Conference on Electrical Engineering and Information Communication Technology (ICEEICT) (pp. 1-5). IEEE.'
 ---
 
