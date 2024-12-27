@@ -217,11 +217,11 @@ collections:
   #   permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:publications/:path/
   gallery:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projects:
     output: false
     permalink: /:collection/:path/
 
