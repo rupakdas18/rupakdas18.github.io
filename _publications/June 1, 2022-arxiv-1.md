@@ -1,7 +1,7 @@
 ---
 title: "Towards affirmation of recovery of deeply embedded autobiographical memory and identification of an EEG biomarker using wearable sensors"
 collection: publications
-permalink: /publication/June 1, 2022-arxiv-1
+permalink: /publications/June 1, 2022-arxiv-1
 date: June 1, 2022
 venue: 'University Digital Conservancy'
 paperurl: 'https://conservancy.umn.edu/items/90d3a9db-ca78-456b-a117-9e9810349d94'
