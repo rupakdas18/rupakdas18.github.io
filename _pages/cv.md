@@ -142,6 +142,17 @@ Skills
   * HTML
   * CSS
 
+
+Extra Curricular Activities
+======
+
+* Web Coordinator, [Bangladesh Student Association (BSA)](https://sites.psu.edu/bsapsu/), Penn State, July 2024 - Present 
+* IT officer, [Graduate Student Association of IST](https://sites.psu.edu/istgrad/about/), Penn State, Aug 2023 - July 2024
+* Volunteer-Indoor Games, Department of ECE, Khulna University of Engineering and Technology
+
+
+
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
