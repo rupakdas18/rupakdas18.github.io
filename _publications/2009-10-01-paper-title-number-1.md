@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Towards affirmation of recovery of deeply embedded autobiographical memory and identification of an EEG biomarker using wearable sensors"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publications/June 1, 2022-arxiv-1
+date: June 1, 2022
+venue: 'University Digital Conservancy'
+paperurl: 'https://conservancy.umn.edu/items/90d3a9db-ca78-456b-a117-9e9810349d94'
+citation: 'Das, R. K. (2022). Towards affirmation of recovery of deeply embedded autobiographical memory and identification of an EEG biomarker using wearable sensors (Master&apos;s thesis, University of Minnesota).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<a href='https://conservancy.umn.edu/items/90d3a9db-ca78-456b-a117-9e9810349d94'>Download paper here</a>
+
+Recommended citation: Das, R. K. (2022). Towards affirmation of recovery of deeply embedded autobiographical memory and identification of an EEG biomarker using wearable sensors (Master's thesis, University of Minnesota).
