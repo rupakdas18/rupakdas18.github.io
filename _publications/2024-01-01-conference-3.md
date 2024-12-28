@@ -9,6 +9,6 @@ paperurl: 'https://arxiv.org/abs/2401.00959'
 citation: 'Khan, A. A., Das, R. K., Martin, A., Dowling, D., &amp; Imtiaz, R. (2024). Creating an Intelligent Dementia-Friendly Living Space: A Feasibility Study Integrating Assistive Robotics, Wearable Sensors, and Spatial Technology. arXiv preprint arXiv:2401.00959.'
 ---
 
-<a href='https://arxiv.org/abs/2401.00959'>Download paper here</a>
+<!-- <a href='https://arxiv.org/abs/2401.00959'>Download paper here</a> -->
 
 <!-- Recommended citation: Khan, A. A., Das, R. K., Martin, A., Dowling, D., & Imtiaz, R. (2024). Creating an Intelligent Dementia-Friendly Living Space: A Feasibility Study Integrating Assistive Robotics, Wearable Sensors, and Spatial Technology. arXiv preprint arXiv:2401.00959. -->
