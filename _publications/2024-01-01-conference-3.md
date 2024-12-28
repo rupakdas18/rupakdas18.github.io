@@ -1,7 +1,8 @@
 ---
 title: "Creating an Intelligent Dementia-Friendly Living Space: A Feasibility Study Integrating Assistive Robotics, Wearable Sensors, and Spatial Technology"
 collection: publications
-permalink: /publication/2024-01-01-conference-3
+category: manuscripts
+permalink: /publications/2024-01-01-conference-3
 date: 2024-01-01
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2401.00959'
