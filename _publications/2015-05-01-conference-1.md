@@ -1,7 +1,7 @@
 ---
 title: "Age classification based on EMG signal using Artificial Neural Network"
 collection: publications
-permalink: /publication/2015-05-01-conference-1
+permalink: /publications/2015-05-01-conference-1
 date: 2015-05-01
 venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/document/7307427'
