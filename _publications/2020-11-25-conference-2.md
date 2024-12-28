@@ -1,7 +1,7 @@
 ---
 title: "A Study of Load-Balancing Solutions of Mobile Cloud Computing for Next-Generation Mobile Applications"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2020-11-25-conference-2
 date: 2020-11-25
 venue: 'ACM'
