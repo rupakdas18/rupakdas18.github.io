@@ -9,6 +9,6 @@ paperurl: 'https://dl.acm.org/doi/10.1145/3400286.3418238'
 citation: 'Das, R. K., &amp; Lee, A. (2020, October). A study of load-balancing solutions of mobile cloud computing for next-generation mobile applications. In Proceedings of the International Conference on Research in Adaptive and Convergent Systems (pp. 119-123).'
 ---
 
-<a href='https://dl.acm.org/doi/10.1145/3400286.3418238'>Download paper here</a>
+<!-- <a href='https://dl.acm.org/doi/10.1145/3400286.3418238'>Download paper here</a> -->
 
 <!-- Recommended citation: Das, R. K., & Lee, A. (2020, October). A study of load-balancing solutions of mobile cloud computing for next-generation mobile applications. In Proceedings of the International Conference on Research in Adaptive and Convergent Systems (pp. 119-123). -->
