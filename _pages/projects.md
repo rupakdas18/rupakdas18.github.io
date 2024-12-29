@@ -4,11 +4,19 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Researchers
+# Researchs
 
 Below is a list of all the projects I have conducted so far.
 
-## Design of an Intelligent Tutoring System
+## Comparative analysis of fake news detectors: different Features and Explanations
+
+Coming soon .......
+
+## Comparative analysis of fake news detectors: different features and Explanations
+
+Coming soon .......
+
+## Fake News Detection After LLM Laundering: Measurement and Explanation
 
 The primary objective of the vision paper is to demonstrate an end-to-end framework that can identify the gap between students’ prior knowledge and lack of understanding of a topic. Based on that, we aim to develop an intelligent tutoring system to help students by recommending appropriate materials with suitable and personalized learning styles.
 
@@ -37,9 +45,13 @@ This research was designed to develop a machine-learning model to classify body 
 
 In this project, different feature engineering methods like TF-IDF, count vector, and word embedding were used to generate features. Those features are used with Support Vector Machine (SVM), Logistic Regressions, Random Forest, Naive Bayes Classifier, and Decision tree classifier as supervised machine learning models, and Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) as the deep learning models. A publicly available dataset with 10,302 fake news articles and 10,379 real news articles was collected from Kaggle for this project. The final results show that Deep learning algorithms perform slightly better than supervised learning algorithms in detecting fake news.
 
+![Project Image](images/RupakKumarDas-2.jpg)
+
 ## Analyzing the Impact of AI Writing Assistants on Writing Proficiency: Does Usage Enhance or Hinder Independent Writing Skills?
 
 In this project, through human participant research, we figured out the possible enhancing and hindering effects of using writing assistants. Writing assistants can improve lexical richness, readability, and overall writing performance. On the other hand, it may sometimes provide wrong and inaccurate suggestions. Also, writers may lose their unique writing style and originality.
+
+![Project Image](images/RupakKumarDas-2.jpg)
 
 ## Twitter Sentiment Analysis (SemEval2017) using BERT
 
