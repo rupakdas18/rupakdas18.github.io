@@ -74,3 +74,72 @@ Previously, I worked as a Technology Division Specialist for Robi Axiata Limited
 - **Joined Robi Axiata Limited as a Specialist** (June 2017)
 - **Joined Huawei Technology Bangladesh Limited as a Solution Engineer** (Dec 2015)
 - **Graduated (BSc in ECE) from Khulna University of Engineering and Technology** (June 2015)
+
+
+
+## Chat with Me
+
+<div id="chat-container">
+  <div id="chatbox"></div>
+  <input type="text" id="user-input" placeholder="Ask me anything..." />
+  <button id="send-button">Send</button>
+</div>
+
+<script>
+  const chatbox = document.getElementById("chatbox");
+  const userInput = document.getElementById("user-input");
+  const sendButton = document.getElementById("send-button");
+
+  sendButton.addEventListener("click", async () => {
+    const userMessage = userInput.value.trim();
+    if (userMessage) {
+      appendMessage("You", userMessage);
+      userInput.value = "";
+
+      const response = await fetch("https://your-backend-url.com/ask", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ question: userMessage }),
+      });
+
+      const data = await response.json();
+      appendMessage("Bot", data.answer);
+    }
+  });
+
+  function appendMessage(sender, message) {
+    const msgDiv = document.createElement("div");
+    msgDiv.textContent = `${sender}: ${message}`;
+    chatbox.appendChild(msgDiv);
+    chatbox.scrollTop = chatbox.scrollHeight;
+  }
+</script>
+
+<style>
+  #chat-container {
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  #chatbox {
+    height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #fff;
+  }
+  #user-input {
+    width: calc(100% - 50px);
+    padding: 5px;
+  }
+  #send-button {
+    width: 40px;
+    padding: 5px;
+  }
+</style>
