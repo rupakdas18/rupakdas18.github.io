@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Researchs
+<!-- # Researchs -->
 
 Below is a list of all the projects I have conducted so far.
 

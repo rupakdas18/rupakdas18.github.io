@@ -34,3 +34,77 @@ Previously, I worked as a Technology Division Specialist for Robi Axiata Limited
 - **Joined Huawei Technology Bangladesh Limited as a Solution Engineer** (Dec 2015)
 - **Graduated (BSc in ECE) from Khulna University of Engineering and Technology** (June 2015)
 
+
+
+## Chat with Me
+
+<div id="chat-container">
+  <div id="chatbox"></div>
+  <input type="text" id="user-input" placeholder="Type your question here..." />
+  <button id="send-button">Send</button>
+</div>
+
+<script>
+  const chatbox = document.getElementById("chatbox");
+  const userInput = document.getElementById("user-input");
+  const sendButton = document.getElementById("send-button");
+
+  sendButton.addEventListener("click", async () => {
+    const userMessage = userInput.value.trim();
+    if (userMessage) {
+      appendMessage("You", userMessage);
+      userInput.value = "";
+
+      // Simulated bot response for now (replace with API call later)
+      appendMessage("Bot", "Let me think... (this will be replaced by real responses)");
+    }
+  });
+
+  function appendMessage(sender, message) {
+    const msgDiv = document.createElement("div");
+    msgDiv.textContent = `${sender}: ${message}`;
+    chatbox.appendChild(msgDiv);
+    chatbox.scrollTop = chatbox.scrollHeight;
+  }
+</script>
+
+<style>
+  #chat-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  #chatbox {
+    height: 300px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    overflow-y: auto;
+    background-color: #fff;
+    margin-bottom: 10px;
+  }
+  #user-input {
+    width: calc(100% - 60px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 5px;
+  }
+  #send-button {
+    width: 50px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #send-button:hover {
+    background-color: #0056b3;
+  }
+</style>
