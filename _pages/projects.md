@@ -14,11 +14,11 @@ Below is a list of all the projects I have conducted so far.
 
 ## Comparative analysis of fake news detectors: different Features and Explanations
 
-Coming soon .......
+Coming soon ...
 
 ## Comparative analysis of fake news detectors: different features and Explanations
 
-Coming soon .......
+Coming soon ...
 
 ## Fake News Detection After LLM Laundering: Measurement and Explanation
 
