@@ -4,11 +4,10 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<<<<<<< HEAD
 # Researchs
 =======
 <!-- # Researchs -->
->>>>>>> d9a44115029b49662c8cc80b900f23052e25188e
+
 
 Below is a list of all the projects I have conducted so far.
 
